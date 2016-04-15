@@ -10,7 +10,7 @@ public class Welcome extends AppCompatActivity {
 
     private ActivityHelper activityHelper;
     private Activity activity = this;
-//hhhhhh
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
