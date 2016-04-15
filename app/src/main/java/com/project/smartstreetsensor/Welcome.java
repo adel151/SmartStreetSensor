@@ -35,7 +35,7 @@ public class Welcome extends AppCompatActivity {
 
         splashThread.start();
     }
-
+//..
     @Override
     public void onBackPressed() {
     }
